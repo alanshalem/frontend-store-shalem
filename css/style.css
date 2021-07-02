@@ -253,6 +253,5 @@ MODIFICADOR: ej: <div class="cliente__nombre--ceo">...</div>
 }
 
 .formulario__submit:hover {
-  cursor: pointer;
   background-color: var(--secundarioOscuro);
 }
